@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yen Yun Huang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th September 1998
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: National Yang Ming Chiao Tung University
+      year: 2022~
       description:
-        - Description 1.
-        - Description 2.
+        - Analog integrated circuit design
+        - Power management
         - title: Description 3.
           contents:
             - Sub-description 1.
