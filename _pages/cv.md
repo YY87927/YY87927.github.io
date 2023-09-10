@@ -4,7 +4,7 @@ permalink: /cv/
 title: Curriculum Vitae
 nav: true
 nav_order: 4
-cv_pdf: cv.pdf
+cv_pdf: YY_CV_2023.pdf
 description: 
 - Bachelor of Electrical and Computer Engineering at National Chiao Tung
 University (NCTU), qualified as a first-class honor student (11 among 175) in the year 2017 at admission.
